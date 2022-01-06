@@ -53,3 +53,4 @@ Features of Android
 Android is a
 powerful operating system
 competing with
+Apple 4GS
