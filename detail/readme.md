@@ -25,8 +25,7 @@ the code under the Apache License
  version 2.0
 and the rest,
 Linux kernel changes, under the GNU
-General Public
- License version 2.
+General Public License version 2.
 # Why Android ?
 Features of Android
 Android is a
