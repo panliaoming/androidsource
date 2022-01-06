@@ -1,4 +1,4 @@
-#Android is an open source and Linux-based
+# Android is an open source and Linux-based
 Android is an open source and Linux-based
 Operating System for mobile devices
 such as smartphones
@@ -48,3 +48,4 @@ Linux kernel changes,
 under the GNU
 General Public
  License version 2.
+# Why Android ?
