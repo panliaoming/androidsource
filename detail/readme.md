@@ -12,3 +12,4 @@ which means developers
  need only develop for Android,
 and their applications
  should be able to run on
+ different devices
