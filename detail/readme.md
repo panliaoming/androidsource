@@ -20,8 +20,7 @@ Android 1.0,
  was released in September 2008.
 On June 27, 2012, 
 at the Google I/O conference, 
-Google announced
- the next Android version, 
+Google announced the next Android version, 
 4.1 Jelly Bean.
 Jelly Bean is an incremental update,
 with the primary
