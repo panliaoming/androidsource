@@ -14,3 +14,4 @@ and their applications
  should be able to run on
  different devices
 powered by Android.
+The first beta version
