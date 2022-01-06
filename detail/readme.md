@@ -21,8 +21,7 @@ On June 27, 2012,
 at the Google I/O conference, 
 Google announced the next Android version, 4.1 Jelly Bean.
 Jelly Bean is an incremental update,
-with the primary
-aim of improving
+with the primary aim of improving
 the user interface,
 both in terms
 of functionality
