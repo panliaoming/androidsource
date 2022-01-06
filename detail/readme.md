@@ -21,3 +21,4 @@ was released by
 Google in 2007
 where as the first commercial version,
 Android 1.0,
+ was released in September 2008.
