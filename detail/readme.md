@@ -17,8 +17,7 @@ Jelly Bean is an incremental update,
 with the primary aim of improving
 the user interface, both in terms
 of functionality and performance.
-The source code for Android is
-available under free and open
+The source code for Android is available under free and open
 licenses. Google publishes most of
 the code under the Apache License version 2.0 and the rest,
 Linux kernel changes, under the GNU
