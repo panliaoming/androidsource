@@ -54,3 +54,4 @@ Android is a
 powerful operating system
 competing with
 Apple 4GS
+and supports
