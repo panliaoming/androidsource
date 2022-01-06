@@ -56,3 +56,4 @@ competing with
 Apple 4GS
 and supports
 great features.
+Few of them
