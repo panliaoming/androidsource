@@ -8,3 +8,4 @@ led by Google,, and other companies.
 Android offers a unified approach 
 to application development 
  for mobile devices
+which means developers 
