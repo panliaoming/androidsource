@@ -62,3 +62,4 @@ Sr.No.
 Feature & Description
 Beautiful UI
 Android OS basic screen provides  a beautiful and intuitive user interface.
+Connectivity
