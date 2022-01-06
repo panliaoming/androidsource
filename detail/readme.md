@@ -37,3 +37,4 @@ and performance.
 The source code
 for Android is
 available under
+free and open
