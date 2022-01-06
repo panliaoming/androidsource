@@ -50,3 +50,4 @@ General Public
  License version 2.
 # Why Android ?
 Features of Android
+Android is a
