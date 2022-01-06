@@ -29,8 +29,7 @@ Android is a
 powerful operating system
 competing with
 Apple 4GS
-and supports
-great features.
+and supports great features.
 Few of them
 are listed below −
 Sr.No.
