@@ -11,8 +11,7 @@ and their applications
  should be able to run on
  different devices
 powered by Android.
-The first beta version
- of the Android Software
+The first beta version of the Android Software
 Development Kit (SDK) 
 was released by 
 Google in 2007
