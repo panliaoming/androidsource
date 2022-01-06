@@ -61,4 +61,4 @@ are listed below −
 Sr.No.
 Feature & Description
 Beautiful UI
-Android OS basic screen
+Android OS basic screen provides 
