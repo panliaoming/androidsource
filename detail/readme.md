@@ -27,8 +27,7 @@ General Public License version 2.
 Features of Android
 Android is a powerful operating system
 competing with Apple 4GS
-and supports great features.
-Few of them
+and supports great features. Few of them
 are listed below −
 Sr.No.
 Feature & Description
