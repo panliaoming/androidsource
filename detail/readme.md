@@ -17,8 +17,7 @@ Google announced the next Android version, 4.1 Jelly Bean.
 Jelly Bean is an incremental update,
 with the primary aim of improving
 the user interface, both in terms
-of functionality
-and performance.
+of functionality and performance.
 The source code for Android is
 available under
 free and open
