@@ -31,3 +31,4 @@ Beautiful UI
 Android OS basic screen provides  a beautiful and intuitive user interface.
 Connectivity GSM/EDGE,  IDEN, CDMA, EV-DO,UMTS,Bluetooth,Wi-Fi, LTE,LTE,NFC and WiMAX.
 Storage
+SQLite,
