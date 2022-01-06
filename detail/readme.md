@@ -29,8 +29,7 @@ The source code
 for Android is
 available under
 free and open
-licenses. Google
- publishes most of
+licenses. Google publishes most of
 the code under
  the Apache License
  version 2.0
