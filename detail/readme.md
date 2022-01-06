@@ -13,3 +13,4 @@ which means developers
 and their applications
  should be able to run on
  different devices
+powered by Android.
