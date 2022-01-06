@@ -6,8 +6,7 @@ and tablet computers.
 Android was developed by the Open Handset Alliance,
 led by Google,, and other companies.
 Android offers a unified approach 
-to application development 
- for mobile devices
+to application development  for mobile devices
 which means developers 
  need only develop for Android,
 and their applications
