@@ -36,3 +36,4 @@ of functionality
 and performance.
 The source code
 for Android is
+available under
