@@ -7,8 +7,7 @@ led by Google,, and other companies.
 Android offers a unified approach 
 to application development  for mobile devices
 which means developers  need only develop for Android,
-and their applications
- should be able to run on different devices
+and their applications should be able to run on different devices
 powered by Android.
 The first beta version of the Android Software
 Development Kit (SDK)  was released by Google in 2007
