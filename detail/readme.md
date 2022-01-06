@@ -4,4 +4,4 @@ Operating System for mobile devices
 such as smartphones
 and tablet computers.
 Android was developed by the Open Handset Alliance,
-led by Google,
+led by Google,, and other companies.
