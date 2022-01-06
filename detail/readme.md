@@ -13,8 +13,7 @@ and their applications
 powered by Android.
 The first beta version of the Android Software
 Development Kit (SDK) 
-was released by 
-Google in 2007
+was released by Google in 2007
 where as the first commercial version,
 Android 1.0,
  was released in September 2008.
