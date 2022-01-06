@@ -10,3 +10,4 @@ to application development
  for mobile devices
 which means developers 
  need only develop for Android,
+and their applications
