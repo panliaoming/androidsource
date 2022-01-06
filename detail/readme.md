@@ -32,4 +32,4 @@ Connectivity GSM/EDGE,  IDEN, CDMA, EV-DO,UMTS,Bluetooth,Wi-Fi, LTE,LTE,NFC and 
 Storage
 SQLite,a lightweight relational database,is used for data storage purposes.
 Media support
-H.263, H.264, MPEG-4 SP, AMR, AMR-WB,  AAC, HE-AAC, AAC 5.1,MP3, MIDI, Ogg Vorbis,WAV,
+H.263, H.264, MPEG-4 SP, AMR, AMR-WB,  AAC, HE-AAC, AAC 5.1,MP3, MIDI, Ogg Vorbis,WAV,JPEG, 
