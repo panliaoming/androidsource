@@ -11,8 +11,7 @@ and their applications should be able to run on different devices powered by And
 The first beta version of the Android Software
 Development Kit (SDK)  was released by Google in 2007
 where as the first commercial version,
-Android 1.0, was released in September 2008. On June 27, 2012, 
-at the Google I/O conference, 
+Android 1.0, was released in September 2008. On June 27, 2012,  at the Google I/O conference, 
 Google announced the next Android version, 4.1 Jelly Bean.
 Jelly Bean is an incremental update,
 with the primary aim of improving
