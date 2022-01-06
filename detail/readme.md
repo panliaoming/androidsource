@@ -15,8 +15,7 @@ Android 1.0, was released in September 2008. On June 27, 2012,  at the Google I/
 Google announced the next Android version, 4.1 Jelly Bean.
 Jelly Bean is an incremental update,
 with the primary aim of improving
-the user interface, both in terms
-of functionality and performance.
+the user interface, both in terms of functionality and performance.
 The source code for Android is available under free and open
 licenses. Google publishes most of
 the code under the Apache License version 2.0 and the rest,
