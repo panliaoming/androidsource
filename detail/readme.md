@@ -42,3 +42,4 @@ licenses. Google
  publishes most of
 the code under
  the Apache License
+ version 2.0
