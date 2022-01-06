@@ -19,8 +19,7 @@ with the primary aim of improving
 the user interface, both in terms
 of functionality and performance.
 The source code for Android is
-available under
-free and open
+available under free and open
 licenses. Google publishes most of
 the code under
  the Apache License
