@@ -18,3 +18,4 @@ The first beta version
  of the Android Software
 Development Kit (SDK) 
 was released by 
+Google in 2007
