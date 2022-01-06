@@ -12,8 +12,7 @@ powered by Android.
 The first beta version of the Android Software
 Development Kit (SDK)  was released by Google in 2007
 where as the first commercial version,
-Android 1.0, was released in September 2008.
-On June 27, 2012, 
+Android 1.0, was released in September 2008. On June 27, 2012, 
 at the Google I/O conference, 
 Google announced the next Android version, 4.1 Jelly Bean.
 Jelly Bean is an incremental update,
