@@ -51,3 +51,4 @@ General Public
 # Why Android ?
 Features of Android
 Android is a
+powerful operating system
