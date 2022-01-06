@@ -23,8 +23,7 @@ the code under the Apache License version 2.0 and the rest,
 Linux kernel changes, under the GNU
 General Public License version 2.
 # Why Android ?
-Features of Android
-Android is a powerful operating system
+Features of Android Android is a powerful operating system
 competing with Apple 4GS
 and supports great features. Few of them are listed below −
 Sr.No.
