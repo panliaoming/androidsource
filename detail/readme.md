@@ -41,3 +41,4 @@ free and open
 licenses. Google
  publishes most of
 the code under
+ the Apache License
