@@ -21,8 +21,7 @@ of functionality and performance.
 The source code for Android is
 available under free and open
 licenses. Google publishes most of
-the code under the Apache License version 2.0
-and the rest,
+the code under the Apache License version 2.0 and the rest,
 Linux kernel changes, under the GNU
 General Public License version 2.
 # Why Android ?
